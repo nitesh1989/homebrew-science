@@ -2,7 +2,7 @@ require "formula"
 
 class Kraken < Formula
   homepage "http://ccb.jhu.edu/software/kraken/"
-  url "ttps://ccb.jhu.edu/software/kraken/dl/kraken-0.10.5-beta.tgz"
+  url "https://ccb.jhu.edu/software/kraken/dl/kraken-0.10.5-beta.tgz"
   sha1 ""
 
   needs :openmp
